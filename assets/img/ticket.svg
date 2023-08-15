@@ -1,0 +1,45 @@
+ <svg fill="#000000" id="Layer_1" version="1.1" viewBox="0 0 120 120"
+                     xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier"
+                                                                                stroke-width="0"></g>
+                    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                    <g id="SVGRepo_iconCarrier">
+                        <style type="text/css"> .st0 {
+                                fill: #1363DF;
+                            }
+
+                            .st1 {
+                                fill: #DFF6FF;
+                            }
+
+                            .st2 {
+                                fill: #06283D;
+                            }
+
+                            .st3 {
+                                fill: #47B5FF;
+                            } </style>
+                        <g>
+                            <g>
+                                <ellipse class="st0" cx="18.6" cy="64.9" rx="6.6" ry="6.6"
+                                         transform="matrix(0.7071 -0.7071 0.7071 0.7071 -40.471 32.1518)"></ellipse>
+                                <ellipse class="st0" cx="101.4" cy="64.9" rx="6.6" ry="6.6"
+                                         transform="matrix(0.9732 -0.2298 0.2298 0.9732 -12.2044 25.0397)"></ellipse>
+                            </g>
+                            <g>
+                                <path class="st1"
+                                      d="M96.4,52.8h-5.6C90.8,35.8,77,22,60,22c-17,0-30.8,13.8-30.8,30.8h-5.6c0-20.1,16.3-36.4,36.4-36.4 S96.4,32.7,96.4,52.8z"></path>
+                            </g>
+                            <g>
+                                <path class="st2"
+                                      d="M69.3,101.4c-2.4,0-4-0.1-4.2-0.1l0.2-2.2c0.2,0,22.9,1.7,25.6-7.7c3-10.4,1.5-21.4,1.5-21.5l2.2-0.3 C94.7,70,96.2,81.1,93,92C90.5,100.3,76.5,101.4,69.3,101.4z"></path>
+                            </g>
+                            <path class="st3"
+                                  d="M68.3,103.6h-6.1c-2,0-3.6-1.6-3.6-3.6l0,0c0-2,1.6-3.6,3.6-3.6h6.1c2,0,3.6,1.6,3.6,3.6l0,0 C71.9,102,70.3,103.6,68.3,103.6z"></path>
+                            <g>
+                                <path class="st3"
+                                      d="M25.2,50.9L25.2,50.9c-5.1,0-9.3,4.2-9.3,9.3v10.8c0,5.1,4.2,9.3,9.3,9.3h0c4.3,0,7.8-3.5,7.8-7.8V58.6 C32.9,54.3,29.5,50.9,25.2,50.9z"></path>
+                                <path class="st3"
+                                      d="M94.8,50.9L94.8,50.9c-4.3,0-7.8,3.5-7.8,7.8v13.8c0,4.3,3.5,7.8,7.8,7.8h0c5.1,0,9.3-4.2,9.3-9.3V60.1 C104.1,55,99.9,50.9,94.8,50.9z"></path>
+                            </g>
+                        </g>
+                    </g></svg>
